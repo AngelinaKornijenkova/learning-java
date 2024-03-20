@@ -48,7 +48,7 @@ public class PlayWithObjects {
         Barsik.eat();
 
 
-        
+
 
 
 
